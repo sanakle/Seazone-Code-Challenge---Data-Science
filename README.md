@@ -7,7 +7,7 @@
 
 Atualmente trabalhando na **FIEMS**<br/>
 
-Como Técnica de Suporte / **Gestão de Negócios**.
+Técnica de Suporte / **Gestão de Negócios**.
 
 
 </p>
