@@ -6,9 +6,9 @@
 
 <p>
 
-Estudando/trabalhando na **nome do lugar**<br/>
+Estudando/trabalhando na **FIEMS**<br/>
 
-Eu sou desenvolvedor **sua área**.
+Eu sou Técnica de Suporte **Gestão de Negócios**.
 
 
 </p>
