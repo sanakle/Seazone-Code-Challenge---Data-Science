@@ -2,6 +2,7 @@
 O desafio consiste em analisar os dados de ocupação e preço de anúncios no Airbnb, a fim de responder uma série de perguntas
 
 Perguntas:
+
 1 - Ordene os bairros em ordem crescente de número de listings
 
 2 - Ordene os bairros em ordem crescente de faturamento médio dos listings
