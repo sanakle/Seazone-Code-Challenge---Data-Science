@@ -1,16 +1,15 @@
-# Seazone-Code-Challenge---Data-Science
-O desafio consiste em analisar os dados de ocupação e preço de anúncios no Airbnb, a fim de responder uma série de perguntas
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-Perguntas:
+### Faça um breve apresentação sobre você
 
-1 - Ordene os bairros em ordem crescente de número de listings
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-2 - Ordene os bairros em ordem crescente de faturamento médio dos listings
+<p>
 
-3 - Existem correlações entre as características de um anúncio e seu faturamento?
-Quais? Explique
+Estudando/trabalhando na **nome do lugar**<br/>
 
-4 - Qual a antecedência média das reservas?
-Esse número é maior ou menor para finais de semana?
+Eu sou desenvolvedor **sua área**.
 
-Onde possível, embase sua análise com gráficos.
+
+</p>
+<hr>
