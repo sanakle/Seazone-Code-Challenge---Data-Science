@@ -1,5 +1,5 @@
 
-### Me especializando em análise de dados
+### Me especializando em Análise de Dados
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Saiuri Nakazato Leite&color=f8efd4&style=for-the-badge&logo=GitHub">
 
